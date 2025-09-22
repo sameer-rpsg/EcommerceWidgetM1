@@ -347,7 +347,7 @@ const Article = () => {
                     <div className="media-grid_wrapper">
                       <div className="media-grid_wrapper_inner-full-width">
                         <div className={styles.EcomHovercardwrapper}>
-                          <EcomWidgetCard imgSrc="https://cdn.esquireindia.co.in/editor-images/2025-05-19T11%3A03%3A17.223Z-Inline6.jpg" />
+                          <EcomWidgetCard imgSrc="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T10%253A57%253A29.655Z-MG_01067_768x960_5_11zon.jpeg&w=1920&q=75" />
                         </div>
                       </div>
                     </div>
@@ -437,26 +437,7 @@ const Article = () => {
                 </div>
               </div>
             </div>
-            <div className="StoriesInfo_left_innercntr-full-width">
-              <div className="">
-                <div className="rich-text_wrapper">
-                  <p style={{ textAlign: "left" }}>
-                    <span style={{ fontStyle: "italic" }}>Buy it </span>
-                    <a
-                      target="_blank"
-                      rel="noreferrer, nofollow"
-                      style={{ fontWeight: "bold", fontStyle: "italic" }}
-                      href="https://www.torani.in/collections/lehengas/products/laalima-raasya-abhisarika-lehenga-set"
-                    >
-                      <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
-                        here
-                      </span>
-                    </a>
-                    <br />
-                  </p>
-                </div>
-              </div>
-            </div>
+            
             <div className="StoriesInfo_left_innercntr-full-width">
               <div
                 style={{
@@ -493,26 +474,7 @@ const Article = () => {
                 </div>
               </div>
             </div>
-            <div className="StoriesInfo_left_innercntr-full-width">
-              <div className="">
-                <div className="rich-text_wrapper">
-                  <p style={{ textAlign: "left" }}>
-                    <span style={{ fontStyle: "italic" }}>Buy it </span>
-                    <a
-                      target="_blank"
-                      rel="noreferrer, nofollow"
-                      style={{ fontWeight: "bold", fontStyle: "italic" }}
-                      href="https://diyarajvvir.in/products/teal-blue-chevron-print-highlighted-blouse-lehenga-and-organza-embroidered-dupatta"
-                    >
-                      <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
-                        here
-                      </span>
-                    </a>
-                    <br />
-                  </p>
-                </div>
-              </div>
-            </div>
+            
             <div className="StoriesInfo_left_innercntr-full-width">
               <div
                 style={{
@@ -559,135 +521,8 @@ const Article = () => {
                 />
               </div>
             </div>
-            <div className="StoriesInfo_left_innercntr-full-width">
-              <div className="">
-                <div className="rich-text_wrapper">
-                  <p style={{ textAlign: "left" }}>
-                    <span style={{ fontStyle: "italic" }}>Buy it </span>
-                    <a
-                      target="_blank"
-                      rel="noreferrer, nofollow"
-                      style={{ fontWeight: "bold", fontStyle: "italic" }}
-                      href="https://www.perniaspopupshop.com/rajdeep-ranawat-red-dupion-jacket-lehenga-set-rjdc052238.html"
-                    >
-                      <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
-                        here
-                      </span>
-                    </a>
-                    <br />
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="StoriesInfo_left_innercntr-full-width">
-              <div
-                style={{
-                  display: "flex",
-                  justifyContent: "center",
-                  width: "100%"
-                }}
-              >
-                <div className="media-grid_wrapper" style={{ width: "100%" }}>
-                  <div className="media-grid_wrapper_inner-full-width">
-                    <img
-                      alt="GG3786-1_cc0c0728-b1eb-44e6-9519-3b4541dbd76e_4_11zon"
-                      loading="lazy"
-                      width={700}
-                      height={475}
-                      decoding="async"
-                      data-nimg={1}
-                      style={{
-                        color: "transparent",
-                        width: "100%",
-                        height: "auto"
-                      }}
-                      sizes="100vw"
-                      
-                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T10%253A57%253A29.653Z-GG3786-1_cc0c0728-b1eb-44e6-9519-3b4541dbd76e_4_11zon.jpeg&w=3840&q=75"
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="StoriesInfo_left_innercntr-full-width">
-              <div className="">
-                <div className="rich-text_wrapper">
-                  <p style={{ textAlign: "left" }}>
-                    <span style={{ fontStyle: "italic" }}>Buy it </span>
-                    <a
-                      target="_blank"
-                      rel="noreferrer, nofollow"
-                      style={{ fontWeight: "bold", fontStyle: "italic" }}
-                      href="https://www.gazalgupta.in/products/kutch-peacock-lehenga-gg3786?variant=44895983894689&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=growify&utm_medium=google_pmax&utm_campaign=pmax_wedding_LG_IND-22900481001&utm_content=-&gad_source=1&gad_campaignid=22906062221&gbraid=0AAAAAoO1_JsUE1RvnY0F5adx-DrsJ7KlW&gclid=Cj0KCQjwzt_FBhCEARIsAJGFWVn7bKQRhnPR7Y2lsfdZKAYxRAanDCib0KNocRC_2_6Ojj7xsmlZkwkaAuknEALw_wcB"
-                    >
-                      <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
-                        here
-                      </span>
-                    </a>
-                    <br />
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="StoriesInfo_left_innercntr-full-width">
-              <div
-                style={{
-                  display: "flex",
-                  justifyContent: "center",
-                  width: "100%"
-                }}
-              >
-                <div className="media-grid_wrapper" style={{ width: "100%" }}>
-                  <div className="media-grid_wrapper_inner-full-width">
-                    <img
-                      alt="Eila lehenga, Mayyur Girotra"
-                      loading="lazy"
-                      width={700}
-                      height={475}
-                      decoding="async"
-                      data-nimg={1}
-                      style={{
-                        color: "transparent",
-                        width: "100%",
-                        height: "auto"
-                      }}
-                      sizes="100vw"
-                      
-                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T10%253A57%253A29.655Z-MG_01067_768x960_5_11zon.jpeg&w=3840&q=75"
-                    />
-                    <div className="Stories_caption_wrapper">
-                      <span className="Stories_caption">
-                        Eila lehenga, Mayyur Girotra
-                      </span>
-                      <span className="Stories_courtesy">Mayyur Girotra</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="StoriesInfo_left_innercntr-full-width">
-              <div className="">
-                <div className="rich-text_wrapper">
-                  <p style={{ textAlign: "left" }}>
-                    <span style={{ fontStyle: "italic" }}>Buy it </span>
-                    <a
-                      target="_blank"
-                      rel="noreferrer, nofollow"
-                      style={{ fontWeight: "bold", fontStyle: "italic" }}
-                      href="https://mayyurgirotra.com/collections/zamani/products/eila-lehenga"
-                    >
-                      <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
-                        here
-                      </span>
-                    </a>
-                    <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
-                      .
-                    </span>
-                    <br />
-                  </p>
-                </div>
-              </div>
-            </div>
+          
+           
             <div className="">
               <ul className="Readmore_actions">
                 <li className="Readmore_actions_first-not-button">
